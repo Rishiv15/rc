@@ -17,24 +17,24 @@
 	],
 
 	"WorkContent": [
-		"I am currently full time Software Developer Engineer at Microsoft."
+		"I am currently looking for internship opportunities."
 	],
-	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
-	"InternshipsStartLine": "Previously, I have interned with :",
+	"WorkImage": "",
+	"InternshipsStartLine": "",
 	"InternShips": [{
-			"name": "Amazon India",
+			"name": "",
 			"link": "#"
 		},
 		{
-			"name": "North-Eastern Space Application Center (ISRO)",
-			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
+			"name": "",
+			"link": ""
 		},
 		{
-			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
-			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
+			"name": "",
+			"link": ""
 		}
 	],
-	"ProjectsStartLine": "Some of the side projects I did can be found here :",
+	"ProjectsStartLine": "Some of the projects I did can be found here :",
 	"Projects": [{
 			"name": "EisenList",
 			"link": "https://github.com/adityaketkar/eisenlist"
