@@ -19,7 +19,21 @@
 	"WorkContent": [
 		"I am currently looking for internship opportunities."
 	],
-	
+	"WorkImage": "",
+	"InternshipsStartLine": "",
+	"InternShips": [{
+			"name": "",
+			"link": ""
+		},
+		{
+			"name": "",
+			"link": ""
+		},
+		{
+			"name": "",
+			"link": ""
+		}
+	],
 	"ProjectsStartLine": "Some of the projects I did can be found here :",
 	"Projects": [{
 			"name": "The Weatherists",
