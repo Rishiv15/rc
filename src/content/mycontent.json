@@ -20,17 +20,17 @@
 		"I am currently looking for internship opportunities."
 	],
 	"WorkImage": "",
-	"InternshipsStartLine": "",
+	"InternshipsStartLine": "I love to gain practical knowledge and experience whenever I can. My skills include:",
 	"InternShips": [{
-			"name": "",
+			"name": "C++, Python, MySQL, HTML, CSS",
 			"link": ""
 		},
 		{
-			"name": "",
+			"name": "Node.js, JavaScript, Flask, MongoDB, jQuery",
 			"link": ""
 		},
 		{
-			"name": "",
+			"name": "Deep Learning, django, TensorFlow",
 			"link": ""
 		}
 	],
