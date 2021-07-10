@@ -2,7 +2,7 @@
 	"Title": "Rishiv Chhabria | Personal Webpage",
 	"Name": "Rishiv Chhabria",
 	"Description": [
-		"Third Year Computer Engineering student at VJTI, Mumbai.",
+		"Final Year Computer Engineering student at VJTI, Mumbai.",
 		""
 	],
 	"MainImage": "https://i.imgur.com/wBmhKf8.jpg",
@@ -10,14 +10,14 @@
 
 	"AboutImage": "",
 	"AboutContent": [
-		"I’m a Third Year Computer Engineering student.",
+		"I’m a Final Year Computer Engineering student.",
 		"I'm really interested in Full Stack Web Development and I have done projects based on it.",
 		"I am passionate about sports like Lawn Tennis, Swimming, Table Tennis and Cricket.",
 		"I love the way the concept of work has evolved over the past decades, and hence would love to travel and work together whenever I can."
 	],
 
 	"WorkContent": [
-		"I am currently looking for internship opportunities."
+		"Technical Summer Analyst at Morgan Stanley."
 	],
 	"WorkImage": "",
 	"InternshipsStartLine": "I love to gain practical knowledge and experience whenever I can. My skills include:",
@@ -26,7 +26,7 @@
 			"link": ""
 		},
 		{
-			"name": "Node.js, JavaScript, Flask, MongoDB, jQuery",
+			"name": "Node.js, JavaScript, Flask, MongoDB, jQuery, Java, Laravel",
 			"link": ""
 		},
 		{
@@ -40,16 +40,16 @@
 			"link": "https://weatherists.herokuapp.com/index"
 		},
 		{
+		        "name": "WebDoc",
+			"link": "https://github.com/mehdi1514/AI-OSC_Project"
+	     	},
+		{
 			"name": "Paperless Billing System",
 			"link": "https://github.com/archeelp/PBL"
 		},
 		{
 			"name": "Neural Style Transfer",
 			"link": "https://github.com/Rishiv15/NST"
-		},
-		{
-			"name": "Mobile Phone DBMS",
-			"link": "https://github.com/saisadashivaK/DBMS-project"
 		}
 	],
 
