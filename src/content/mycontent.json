@@ -2,31 +2,31 @@
 	"Title": "Rishiv Chhabria | Personal Webpage",
 	"Name": "Rishiv Chhabria",
 	"Description": [
-		"Final Year Computer Engineering student at VJTI, Mumbai.",
-		""
+		"Incoming Technology Analyst at Morgan Stanley",
+		"Computer Engineering, VJTI, Mumbai."
 	],
 	"MainImage": "https://i.imgur.com/wBmhKf8.jpg",
 	"BackgroundURL": "",
 
 	"AboutImage": "",
 	"AboutContent": [
-		"I’m a Final Year Computer Engineering student.",
+		"I’m a Computer Engineer.",
 		"I'm really interested in Full Stack Web Development and I have done projects based on it.",
 		"I am passionate about sports like Lawn Tennis, Swimming, Table Tennis and Cricket.",
 		"I love the way the concept of work has evolved over the past decades, and hence would love to travel and work together whenever I can."
 	],
 
 	"WorkContent": [
-		"Technical Summer Analyst at Morgan Stanley."
+		"Technology Summer Analyst at Morgan Stanley."
 	],
 	"WorkImage": "",
 	"InternshipsStartLine": "I love to gain practical knowledge and experience whenever I can. My skills include:",
 	"InternShips": [{
-			"name": "C++, Python, MySQL, HTML, CSS",
+			"name": "C++, Python, MySQL, HTML, CSS, JavaScript, Git",
 			"link": ""
 		},
 		{
-			"name": "Node.js, JavaScript, Flask, MongoDB, jQuery, Java, Laravel",
+			"name": "Node.js, JavaScript, Flask, MongoDB, jQuery, Java, Laravel, SpringBoot, Angular, Machine Learning, Solidity",
 			"link": ""
 		},
 		{
@@ -62,7 +62,7 @@
 	"wordpress": "",
 	"facebook": "https://www.facebook.com/rishiv.chhabria",
 	"github": "https://github.com/Rishiv15",
-	"instagram": "https://www.instagram.com/rishi_vc1/",
+	"instagram": "https://www.instagram.com/rishivc/",
 	"twitter": "",
 	"medium": ""
 }
